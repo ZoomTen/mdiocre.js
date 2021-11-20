@@ -1,0 +1,15 @@
+{
+  "name": "mdiocre-parser-markdown",
+  "version": "0.0.1",
+  "description": "Markdown parser for MDiocre",
+  "main": "MarkdownParser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zumi",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "marked": "^4.0.4",
+    "mdiocre": "file:../mdiocre"
+  }
+}

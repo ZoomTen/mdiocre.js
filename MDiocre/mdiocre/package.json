@@ -1,0 +1,14 @@
+{
+  "name": "mdiocre",
+  "version": "0.0.1",
+  "description": "A templating system to insert various markup into HTML templates.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node tests/index"
+  },
+  "author": "Zumi",
+  "license": "BSD-2-Clause"
+}

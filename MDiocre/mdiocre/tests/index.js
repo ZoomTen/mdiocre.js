@@ -1,0 +1,2 @@
+require("./variables");
+require("./mdiocre");
